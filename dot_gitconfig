@@ -1,0 +1,10 @@
+[user]
+	name = Dawid Komęza
+	email = dawid.komeza@gmail.com
+	signingkey = /Users/dkomeza/.ssh/dkomeza@git.pub
+[push]
+	autoSetupRemote = true
+[gpg]
+	format = ssh
+[commit]
+	gpgsign = true

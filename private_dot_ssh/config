@@ -1,0 +1,9 @@
+Host github.com
+	HostName github.com
+		User git
+		IdentityFile ~/.ssh/dkomeza@github.com
+
+Host gl.swmansion.com
+		HostName gl.swmansion.com
+		User git
+		IdentityFile ~/.ssh/gitlab.pem
