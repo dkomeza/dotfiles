@@ -1,4 +1,4 @@
 [".config/nvim"]
     type = "git-repo"
-    url = "git@github.com:dkomeza/config.nvim.git"
+    url = "https://github.com/dkomeza/config.nvim.git"
     refreshPeriod = "168h"
